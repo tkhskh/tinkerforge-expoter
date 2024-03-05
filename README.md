@@ -1,6 +1,6 @@
 # tinkerforge-expoter
 ## required
-node-exporter (text collecter) 
+node-exporter (text collecter)  
 tinkerforge brickd  
 tinkerforge shell bindings  
 bc  
